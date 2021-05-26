@@ -1,0 +1,56 @@
+@media(max-width:998px){
+  .alert{
+    font-size: 70%;
+  }
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style-type: none;
+}
+
+#card1 {
+  background: url("Slide1.jpg") center;
+  background-size: cover;
+  height: 600px;
+  width: 100%;
+}
+
+#RRCB {
+  font-size: 4.5rem;
+  text-align: center;
+  padding-top: 125px;
+  color: floralwhite;
+  text-shadow: 4px 4px 3px #333;
+}
+
+#subtext {
+  font-size: 1.5rem;
+  text-align: center;
+  color: floralwhite;
+  text-shadow: 4px 4px 3px #333;
+}
+
+#about {
+  float: right;
+  margin-right: 2%;
+  margin-top: 10px;
+}
+
+#Helpline {
+  float: left;
+  width: 120px;
+  height: 40px;
+  margin-right: 5px;
+  border-radius: 5px;
+}
+
+#card2 {
+  background: url("Slide2.jpg") center;
+  background-size: cover;
+  height: 700px;
+}
